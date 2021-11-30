@@ -1,2 +1,2 @@
 # SimpleArray
-Small C++ Program of Array 
+Small C++ Program of 1D Array 
